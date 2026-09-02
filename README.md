@@ -4,7 +4,7 @@
   
   <p>
     <a href="https://github.com/sponsors/garc-kt"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
-    <a href="https://ko-fi.com/garckt"><img src="https://img.shields.io/badge/Support%20me%20on%20Ko--fi-72A4F2?style=for-the-badge&logo=kofi&logoColor=white" alt="Support me on Ko-fi" /></a>
+    <a href="https://ko-fi.com/X5R825DY4X"><img src="https://img.shields.io/badge/Support%20on%20Ko--fi-72A4F2?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi" /></a>
     <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
     <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></a>
   </p>
@@ -41,7 +41,7 @@ If you'd like to support my learning and open-source Android work:
   <a href="https://ko-fi.com/X5R825DY4X" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height="36" style="border:0px;height:36px;" alt="Buy Me a Coffee at ko-fi.com" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://github.com/sponsors/garc-kt" target="_blank">
     <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="36" alt="Sponsor on GitHub" />
   </a>
