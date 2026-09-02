@@ -13,42 +13,34 @@
 ---
 
 ### 💫 About Me
-- 🚀 **Who I am**: A vibe coder exploring Android app development with **Kotlin** and modern tools.
-- 🐣 **My Journey**: I'm relatively new to programming and learning in public! I love combining modern AI tools, curiosity, and community knowledge to craft neat mobile experiences.
-- 🤝 **Feedback & Help Welcome**: Since I'm still learning, I always welcome tips, code reviews, PR suggestions, and guidance from fellow developers.
-- 🎯 **Current Focus**: Building intuitive Android tools, experimenting with clean UI patterns, and leveling up my Kotlin skills every day.
+- 🚀 **Who I am**: An Android & Kotlin vibe coder bringing creative app ideas to life.
+- 🐣 **My Journey**: I'm relatively new to programming and learning in public! I combine modern AI tools, curiosity, and community advice to build fast, beautiful mobile tools.
+- 🤝 **Feedback & Mentorship**: Since I'm still learning, I always welcome tips, code reviews, PR feedback, and guidance from experienced developers.
+- 🎯 **Current Focus**: Mastering Kotlin, Jetpack Compose, and building high-performance Android apps.
 
 ---
 
-### 📱 Featured Projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/garc-kt/Stem">🌿 Stem</a></h3>
-      <p align="center">Ambient writing and inline text enhancement assistant for Android.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/garc-kt/Mythos-">🔮 Mythos</a></h3>
-      <p align="center">Experimental project exploring storytelling and interactive mobile experiences.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 📱 Featured Project
+
+<div align="center">
+  <h3><a href="https://github.com/garc-kt/Stem">🌿 Stem</a></h3>
+  <p><strong>Ambient writing and inline text enhancement assistant for Android.</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/Architecture-Clean%20%26%20Modular-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=flat-square" />
+  </p>
+</div>
 
 ---
 
 ### ☕ Support My Journey
-If you enjoy my open-source projects or want to cheer me on as I learn:
-- 💖 **[Sponsor on GitHub](https://github.com/sponsors/garc-kt)** — Monthly or one-time support to help fund dev tools and learning resources.
-- ☕ **[Buy me a coffee on Ko-fi](https://ko-fi.com/garckt)** — Direct tip/coffee to keep the coding momentum going!
+If you'd like to support my learning and open-source Android work:
+- 💖 **[Sponsor on GitHub](https://github.com/sponsors/garc-kt)** — Monthly or one-time pledge to help fund developer tools & devices.
+- ☕ **[Buy me a coffee on Ko-fi](https://ko-fi.com/garckt)** — Direct coffee & encouragement!
 
 ---
 
 <div align="center">
-  <p><i>"Every expert was once a beginner." Thanks for stopping by and being part of my journey! ✨</i></p>
+  <p><i>"Every expert was once a beginner." Thanks for stopping by and supporting my journey! ✨</i></p>
 </div>
