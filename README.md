@@ -41,7 +41,7 @@ If you'd like to support my learning and open-source Android work:
   <a href="https://ko-fi.com/X5R825DY4X" target="_blank">
     <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height="36" style="border:0px;height:36px;" alt="Buy Me a Coffee at ko-fi.com" />
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://github.com/sponsors/garc-kt" target="_blank">
     <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="36" alt="Sponsor on GitHub" />
   </a>
