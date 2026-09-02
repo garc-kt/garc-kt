@@ -23,7 +23,7 @@
 ### 📱 Featured Project
 
 <div align="center">
-  <h3><a href="https://github.com/garc-kt/Stem">🌿 Stem</a></h3>
+  <h3><a href="https://github.com/garc-kt/Stem">Stem</a></h3>
   <p><strong>Ambient writing and inline text enhancement assistant for Android.</strong></p>
   <p>
     <img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=flat-square" />
