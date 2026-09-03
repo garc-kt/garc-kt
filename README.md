@@ -1,8 +1,7 @@
 ﻿<div align="center">
 
   <h1>Hey there, I'm Garc 👋</h1>
-  <p><strong>🌱 Mobile Software Architect & Indie Android Engineer at VeggieBit Studios</strong></p>
-  <p><em>Crafting tactile, ambient, and high-performance applications with native mobile design & edge AI.</em></p>
+  <p><strong>Android & Kotlin Developer • Building Clean, Local-First Mobile Tools</strong></p>
 
   <p align="center">
     <a href="https://github.com/sponsors/garc-kt">
@@ -28,130 +27,59 @@
 
 ### 💫 About Me
 
-- 🚀 **Who I am**: An independent mobile engineer and "vibe coder" dedicated to building high-craft, ambient utilities.
-- 🏢 **VeggieBit Studios**: All of my flagship apps are engineered under my independent label with a strict commitment to **radical privacy, zero telemetry, and tactile joy**.
-- 🛠️ **Engineering Focus**: Native Android with Kotlin 2.x & Jetpack Compose, edge AI (local Ollama over LAN + on-device heuristic engines), spring physics, and low-latency system integration (`ACTION_PROCESS_TEXT`, WindowManager Overlays, Accessibility Services).
-- 🤝 **Open Source & Community**: I build in public and welcome tips, architectural discussions, issues, and pull requests.
+- 🚀 **Focus**: Independent Android development with modern Kotlin, Jetpack Compose, and ambient edge intelligence.
+- 🛡️ **Philosophy**: Clean software that respects the user. 100% local-first, zero telemetry, no ads, and tactile micro-interactions.
+- 🌿 **Flagship Project**: Creator of [**Stem**](https://github.com/garc-kt/Stem) — an ambient writing and text enhancement assistant for Android.
+- 🤝 **Open Source**: I build in public, share honest progress, and appreciate feedback, issues, and discussions.
 
 ---
 
-### 🏢 Flagship Applications
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌿 <a href="https://github.com/garc-kt/Stem">Stem</a></h3>
-      <p>
-        <a href="https://github.com/garc-kt/Stem/releases"><img src="https://img.shields.io/github/v/release/garc-kt/Stem?style=flat-square&color=2E7D32&logo=android&logoColor=white" alt="v1.0.3" /></a>
-        <a href="https://github.com/garc-kt/Stem"><img src="https://img.shields.io/badge/Privacy-100%25_Local_First-success?style=flat-square" alt="Privacy" /></a>
-      </p>
-      <p>
-        <strong>Ambient Writing & Inline Text Enhancement Assistant for Android</strong><br>
-        Instant on-device heuristics (0ms latency), private Ollama over LAN Wi-Fi, and BYO-key cloud LLMs (Gemini, Claude, GPT). Features inline token-level LCS diff preview and zero keyboard lock-in.
-      </p>
-      <p align="center">
-        <a href="https://github.com/garc-kt/Stem/releases/latest"><b>⬇️ Download Latest APK</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/garc-kt/RadishTop">RadishTop</a></h3>
-      <p>
-        <a href="https://github.com/garc-kt/RadishTop/releases"><img src="https://img.shields.io/badge/Release-v1.3.0-00838F?style=flat-square&logo=android&logoColor=white" alt="v1.3.0" /></a>
-        <a href="https://github.com/garc-kt/RadishTop"><img src="https://img.shields.io/badge/Android-10+_to_16-2E7D32?style=flat-square&logo=android&logoColor=white" alt="Android 10+" /></a>
-      </p>
-      <p>
-        <strong>Adaptive Hardware Notch & Cutout Morphing Overlay</strong><br>
-        Transforms front-facing camera cutouts into a dynamic interactive island. Real-time MediaSession playback sync, animated waveform visualizers, incoming call handling, and dynamic Monet palettes.
-      </p>
-      <p align="center">
-        <a href="https://github.com/garc-kt/RadishTop/releases/latest"><b>⬇️ Download Latest APK</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍊 <a href="https://github.com/garc-kt/Juicer">Juicer</a></h3>
-      <p>
-        <a href="https://github.com/garc-kt/Juicer/releases"><img src="https://img.shields.io/badge/Release-v1.0.1-FB8C00?style=flat-square&logo=android&logoColor=white" alt="v1.0.1" /></a>
-        <a href="https://github.com/garc-kt/Juicer"><img src="https://img.shields.io/badge/Engine-yt--dlp_+_FFmpeg-C85A00?style=flat-square&logo=ffmpeg&logoColor=white" alt="Engine" /></a>
-      </p>
-      <p>
-        <strong>High-Performance Media Downloader & Transcoder</strong><br>
-        Fast, granular media extraction across 1,000+ platforms with Material 3 Expressive UI, 4K/1080p stream muxing, 320k MP3 audio extraction, foreground service queue, and zero-telemetry local privacy.
-      </p>
-      <p align="center">
-        <a href="https://github.com/garc-kt/Juicer/releases/latest"><b>⬇️ Download Latest APK</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔮 <a href="https://github.com/garc-kt/Mythos-">Mythos-</a></h3>
-      <p>
-        <a href="https://github.com/garc-kt/Mythos-"><img src="https://img.shields.io/badge/Platform-Web-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" /></a>
-        <a href="https://github.com/garc-kt/Mythos-"><img src="https://img.shields.io/badge/Styling-Emotion_SSR-D26AC2?style=flat-square&logo=emotion&logoColor=white" alt="Emotion" /></a>
-      </p>
-      <p>
-        <strong>Photography Exhibition & Interactive Visual Catalogue</strong><br>
-        Minimalist exhibition platform built with React, Vite, and Emotion SSR critical CSS injection. Designed around strict grid rhythm, zero-border aesthetics, and full accessibility.
-      </p>
-      <p align="center">
-        <a href="https://github.com/garc-kt/Mythos-"><b>🌐 Explore Project</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎨 The VeggieBit Engineering Philosophy
-
-1. **Radical Privacy (Zero-Cloud Privacy)**: Apps belong to the user. No trackers, no analytics SDKs, and 100% local or private LAN computing.
-2. **Craft & Tactile Micro-Interactions**: Physics-based motion (Spring specs), reactive haptic feedback, and fluid Material 3 Expressive aesthetics.
-3. **Ambient Integration**: Tools that work seamlessly with your existing operating system habits—no awkward app switching or workflow disruption.
-
----
-
-### 🛠️ Tech Stack & Arsenal
+### 🌿 Featured Project: Stem
 
 <div align="center">
-
-| Domain | Technologies |
-|---|---|
-| **Android Native** | `Kotlin 2.3` • `Jetpack Compose` • `Coroutines & Flow` • `Material 3 Expressive` • `Accessibility Services` • `WindowManager Overlays` • `Android 8–16 APIs` |
-| **Cross-Platform & Web** | `Flutter` • `Dart` • `React 18` • `Vite` • `Material UI` • `Emotion` |
-| **Edge AI & Media** | `Local LLMs (Ollama, Llama 3, Mistral)` • `Google Gemini` • `Claude 3.5` • `OpenAI` • `On-Device Regex & Heuristics` • `yt-dlp` • `FFmpeg` |
-| **Tooling & CI/CD** | `Gradle Kotlin DSL` • `GitHub Actions` • `R8 Bytecode Optimization` • `Clean Architecture (By Function + Type)` |
-
+  <h3><a href="https://github.com/garc-kt/Stem">Stem — Ambient Writing Assistant for Android</a></h3>
+  <p>
+    <a href="https://github.com/garc-kt/Stem/releases"><img src="https://img.shields.io/github/v/release/garc-kt/Stem?style=flat-square&color=2E7D32&logo=android&logoColor=white" alt="Latest Release" /></a>
+    <a href="https://github.com/garc-kt/Stem"><img src="https://img.shields.io/badge/Privacy-100%25_Local_First-success?style=flat-square" alt="Privacy" /></a>
+    <a href="https://github.com/garc-kt/Stem/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square" alt="License" /></a>
+  </p>
+  <p>
+    Instant on-device heuristics (0ms latency), private Ollama over LAN Wi-Fi, and BYO-key cloud LLMs.<br>
+    Integrates seamlessly via native text selection (<code>ACTION_PROCESS_TEXT</code>) and inline triggers (<code>;;fix</code>) with a token-level visual diff sheet.
+  </p>
+  <p>
+    <a href="https://github.com/garc-kt/Stem/releases/latest"><b>⬇️ Download Latest APK</b></a> •
+    <a href="https://github.com/garc-kt/Stem"><b>⭐ View Repository</b></a>
+  </p>
 </div>
+
+---
+
+### 🛠️ Tech Arsenal
+
+- **Mobile Development**: Kotlin 2.3 • Jetpack Compose • Coroutines & Flow • Material 3 • Android SDK (API 26–36) • Accessibility Services
+- **Intelligence & Core**: On-Device Heuristic Grammar Engine • Local LLMs (Ollama) • Cloud LLM Connectors (Gemini, Claude, GPT)
+- **Architecture & Build**: Clean Architecture • AndroidX DataStore • Gradle Kotlin DSL • ProGuard / R8 Optimization
 
 ---
 
 ### ☕ Support My Open-Source Work
 
-If my applications enhance your daily digital experience, please consider supporting ongoing development. Sponsorships help fund physical Android OEM test devices, CI build runners, and dedicated open-source time:
+If Stem enhances your daily Android workflow and you'd like to support continued development:
 
 <p align="center">
   <a href="https://github.com/sponsors/garc-kt" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="40" alt="Sponsor on GitHub" />
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="38" alt="Sponsor on GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ko-fi.com/X5R825DY4X" target="_blank">
-    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height="40" style="border:0px;height:40px;" alt="Buy Me a Coffee at ko-fi.com" />
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height="38" style="border:0px;height:38px;" alt="Buy Me a Coffee at ko-fi.com" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-
-  ### 📊 GitHub Activity & Metrics
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=garc-kt&show_icons=true&theme=tokyonight&hide_border=true&title_color=FB8C00&icon_color=2E7D32&text_color=e0e0e0&bg_color=0d1117" alt="garc-kt GitHub Stats" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garc-kt&layout=compact&theme=tokyonight&hide_border=true&title_color=FB8C00&text_color=e0e0e0&bg_color=0d1117" alt="Top Languages" height="165" />
-  </p>
-
-  <p>
-    🌱 <i>"Building intuitive software that grows on you."</i> — <b>VeggieBit Studios</b>
-  </p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=garc-kt&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F52FF&icon_color=3DDC84&text_color=e0e0e0&bg_color=0d1117" alt="garc-kt GitHub Stats" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garc-kt&layout=compact&theme=tokyonight&hide_border=true&title_color=7F52FF&text_color=e0e0e0&bg_color=0d1117" alt="Top Languages" height="155" />
 </div>
