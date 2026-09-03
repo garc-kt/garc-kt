@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <h1>Hey there, I'm Garc 👋</h1>
   <p><strong>Android & Kotlin Developer • Building Clean, Local-First Mobile Tools</strong></p>
@@ -80,6 +80,6 @@ If Stem enhances your daily Android workflow and you'd like to support continued
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garc-kt&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F52FF&icon_color=3DDC84&text_color=e0e0e0&bg_color=0d1117" alt="garc-kt GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garc-kt&layout=compact&theme=tokyonight&hide_border=true&title_color=7F52FF&text_color=e0e0e0&bg_color=0d1117" alt="Top Languages" height="155" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=garc-kt&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F52FF&icon_color=3DDC84&text_color=e0e0e0&bg_color=0d1117" alt="garc-kt GitHub Stats" height="155" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=garc-kt&layout=compact&theme=tokyonight&hide_border=true&title_color=7F52FF&text_color=e0e0e0&bg_color=0d1117" alt="Top Languages" height="155" />
 </div>
